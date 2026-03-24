@@ -130,7 +130,7 @@ export default function App() {
 
       <footer className="p-4 text-center text-gray-500">
         Made with ❤️ by Pawan< br/>
-        <a href="">Github</a>
+        <a href="https://github.com/PawanKumar2001/Project-Tracker">Github</a>
       </footer>
     </div>
   );
