@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rage__ControlInput__ControlSettings>
+  <Mappings>
+    <Item>
+      <Input>INPUT_SELECT_WEAPON_SHOTGUN</Input>
+      <Source>IOMS_KEYBOARD</Source>
+      <Parameters>
+        <Item>KEY_3</Item>
+      </Parameters>
+    </Item>
+    <Item>
+      <Input>INPUT_SELECT_WEAPON_SHOTGUN</Input>
+      <Source>IOMS_MOUSE_BUTTON</Source>
+      <Parameters>
+        <Item>MOUSE_EXTRABTN2</Item>
+      </Parameters>
+    </Item>
+    <Item>
+      <Input>INPUT_SELECT_WEAPON_HEAVY</Input>
+      <Source>IOMS_KEYBOARD</Source>
+      <Parameters>
+        <Item>KEY_4</Item>
+      </Parameters>
+    </Item>
+    <Item>
+      <Input>INPUT_SELECT_WEAPON_HEAVY</Input>
+      <Source>IOMS_MOUSE_BUTTON</Source>
+      <Parameters>
+        <Item>MOUSE_EXTRABTN1</Item>
+      </Parameters>
+    </Item>
+    <Item>
+      <Input>INPUT_SELECT_WEAPON_SNIPER</Input>
+      <Source>IOMS_KEYBOARD</Source>
+      <Parameters>
+        <Item>KEY_9</Item>
+      </Parameters>
+    </Item>
+    <Item>
+      <Input>INPUT_SELECT_WEAPON_SNIPER</Input>
+      <Source>IOMS_MOUSE_BUTTON</Source>
+      <Parameters>
+        <Item>MOUSE_MIDDLE</Item>
+      </Parameters>
+    </Item>
+    <Item>
+      <Input>INPUT_PHONE</Input>
+      <Source>IOMS_KEYBOARD</Source>
+      <Parameters>
+        <Item>KEY_UP</Item>
+      </Parameters>
+    </Item>
+  </Mappings>
+</rage__ControlInput__ControlSettings>
