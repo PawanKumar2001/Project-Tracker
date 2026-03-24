@@ -2,7 +2,7 @@
 A React + TypeScript frontend project management tool with Kanban, List, and Timeline views. Built from scratch to demonstrate custom drag-and-drop, virtual scrolling, live collaboration indicators, and filterable views.
 
 ## Live Demo
-Click to see the tracker in action - 
+Click to see the tracker in action - https://project-tracker-ten-mu.vercel.app/?
 
 ## Features
 ### Three Views of the Same Data
